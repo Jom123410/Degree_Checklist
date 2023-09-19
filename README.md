@@ -2,10 +2,10 @@
 ### Entity-Relationship Diagrams
 
 #### Conceptual ERD
-![Conceptual ERD](C:\Users\jom12\OneDrive\Desktop\WT Grad School\Fall 2023\E-COMM & WEB DEV (CIDM-6325-70)\degree_checklist\Conceptual.png)
+![Conceptual ERD](https://github.com/Jom123410/Degree_Checklist/assets/57498419/35420496-0238-44c6-b152-5aa27b2148ed)
 
 #### Logical ERD
-![Logical ERD](C:\Users\jom12\OneDrive\Desktop\WT Grad School\Fall 2023\E-COMM & WEB DEV (CIDM-6325-70)\degree_checklist\Logical.png)
+![Logical ERD](https://github.com/Jom123410/Degree_Checklist/assets/57498419/4274ba15-ad23-4bc0-9a34-e7dba9cb6149)
 
 #### Physical ERD
-![Physical ERD](C:\Users\jom12\OneDrive\Desktop\WT Grad School\Fall 2023\E-COMM & WEB DEV (CIDM-6325-70)\degree_checklist\Physical.png)
+![Physical ERD](https://github.com/Jom123410/Degree_Checklist/assets/57498419/3d90f2bb-b209-48b6-b6f5-4e52a71cd7fb)
